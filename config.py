@@ -12,4 +12,4 @@ class Config(object):
     API_ID = int(os.environ["API_ID", 23303247]
     API_HASH = os.environ["API_HASH", "23623f737dc15708708c65a7297e1510"]
     AUTH_USERS = "6931140424"
-# 
+
